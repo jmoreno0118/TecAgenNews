@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="hello_world">Hola Mundo</string>
+    <string name="title_activity_agenda">Calendario</string>
+    <string name="title_activity_noticias">Noticias</string>
+    <string name="title_activity_us">Nosotros</string>
+
+</resources>
